@@ -9,7 +9,7 @@ let addresses = [
 
 // 设置优选地址api接口
 let addressesapi = [
-	'https://cf-workers-text2kv-axn.pages.dev/ip.txt?token=fule', //可参考内容格式 自行搭建。
+	'https://text2kv-5r3.pages.dev/ip.txt?token=tmmmmm', //可参考内容格式 自行搭建。
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。
 ];
 
